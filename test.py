@@ -6,4 +6,8 @@ import pandas as pd
 model = LinearRegression()
 
 
+data = pd.read_csv('synthetic_coffee_health_10000.csv')
+
+
+
 
